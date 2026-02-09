@@ -22,8 +22,7 @@ This application allows users to efficiently manage their daily tasks with featu
 ## 🖥️ Application Preview
 
 ### Main Dashboard
-![Dashboard](<img width="1366" height="714" alt="Task Management" src="https://github.com/user-attachments/assets/95fa20b2-dc70-48f4-b017-4a32335eb608" />
-)
+![Dashboard](TaskManagement.png)
 
 
 
