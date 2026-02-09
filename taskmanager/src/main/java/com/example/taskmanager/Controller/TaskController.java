@@ -1,8 +1,7 @@
-package com.example.taskmangaer.Controller;
+package com.example.taskmanager.Controller;
 
-import com.example.taskmangaer.Models.Task;
-import com.example.taskmangaer.Service.TaskService;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.taskmanager.Models.Task;
+import com.example.taskmanager.Service.TaskService;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

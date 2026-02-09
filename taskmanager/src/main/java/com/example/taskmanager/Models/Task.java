@@ -1,4 +1,4 @@
-package com.example.taskmangaer.Models;
+package com.example.taskmanager.Models;
 
 import jakarta.persistence.*;
 import lombok.Data;

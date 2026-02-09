@@ -1,6 +1,6 @@
-package com.example.taskmangaer.Service;
+package com.example.taskmanager.Service;
 
-import com.example.taskmangaer.Models.Task;
+import com.example.taskmanager.Models.Task;
 
 import java.util.List;
 
